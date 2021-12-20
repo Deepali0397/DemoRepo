@@ -1,0 +1,4 @@
+# Created at 2021-12-20T13:14:47.480
+Boot Manifest-JAR contains absolute paths in classpath 'D:\OXYGEN\POMFreeCRMTest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
